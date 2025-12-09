@@ -598,9 +598,18 @@ RESPONSIVE
     }
      .primary-btn{
      padding: 14px 20px;
+     font-size: 12px;
     }
     .secondary-btn{
         padding: 14px 18px;
+        font-size: 12px;
+    }
+    
+    .Footer-heading {
+        margin-bottom: 20px;
+    }
+    .footer-links{
+        margin-bottom: 20px;
     }
 
 }
@@ -629,6 +638,17 @@ RESPONSIVE
         padding: 14px 18px;
         font-size: 12px;
     }
+    
+
+/* footer-section */
+    .Footer-heading {
+        margin-bottom: 20px;
+    }
+    .footer-links{
+        margin-bottom: 20px;
+    
+}
+
 }
 
 @media screen and (max-width:375px){
@@ -644,6 +664,6 @@ RESPONSIVE
         padding: 14px 18px;
         font-size: 10px;
     }
-
+   
 
 }
