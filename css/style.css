@@ -427,10 +427,10 @@ li > a {
   color: #676767;
   margin-bottom: 10px;
 }
-.call-icon{
-    display: flex;
-    align-items: center;
-    height:100% ;
+.call-icon {
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 .call-icon > a > img {
   margin-right: 11px;
@@ -563,7 +563,7 @@ RESPONSIVE
     text-align: center;
   }
 
-  .title4{
+  .title4 {
     font-size: 18px;
     font-weight: 500;
   }
@@ -634,7 +634,7 @@ RESPONSIVE
     margin-bottom: 20px;
   }
 
-  .title4{
+  .title4 {
     font-size: 18px;
     font-weight: 500;
   }
